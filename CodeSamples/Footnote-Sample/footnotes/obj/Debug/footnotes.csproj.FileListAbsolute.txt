@@ -26,3 +26,32 @@ H:\cfdSamples\FootnoteSample\footnotes\bin\System.Web.Http.WebHost.xml
 H:\cfdSamples\FootnoteSample\footnotes\obj\Debug\footnotes.csprojResolveAssemblyReference.cache
 H:\cfdSamples\FootnoteSample\footnotes\obj\Debug\footnotes.dll
 H:\cfdSamples\FootnoteSample\footnotes\obj\Debug\footnotes.pdb
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\footnotes.dll.config
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\footnotes.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\footnotes.pdb
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Autofac.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.Bot.Builder.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.Bot.Connector.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.Bot.Connector.Utilities.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.ProjectOxford.EntityLinking.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Newtonsoft.Json.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Extensions.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Formatting.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Primitives.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Web.Http.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Web.Http.WebHost.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Autofac.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\Newtonsoft.Json.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Extensions.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Formatting.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Net.Http.Primitives.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Web.Http.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\bin\System.Web.Http.WebHost.xml
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\obj\Debug\footnotes.csprojResolveAssemblyReference.cache
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\obj\Debug\footnotes.csproj.CoreCompileInputs.cache
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\obj\Debug\footnotes.dll
+C:\Users\Mrityunjay Bhadauria\Documents\GitHub\BootcampSamples\CodeSamples\Footnote-Sample\footnotes\obj\Debug\footnotes.pdb
